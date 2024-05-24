@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ndpi_protocol_ids.h": "c",
+        "ndpi_api.h": "c",
+        "compare": "c",
+        "ndpi_private.h": "c"
+    }
+}
